@@ -47,12 +47,14 @@ python manage.py runserver
 > ⚠ Then, the development server will be started at http://127.0.0.1:8000/
 
 #
-
 ### App Preview :
+--> Feed Home
+![1](https://github.com/purvavj/StudyBuddy/assets/59122511/c08c05ff-6339-40f3-b1b0-e3bafe3f5aa5)
 
-<p align="center">
-  Room Conversation Preview
-</p>
-![1](https://github.com/purvavj/StudyBuddy/assets/59122511/1bff91a5-375e-4c1c-ba73-d49739d96a2f)
+--> Room Conversation Preview
+![2](https://github.com/purvavj/StudyBuddy/assets/59122511/f0316b59-67ec-464b-a048-f0504d436b39)
+
+
+
 
 

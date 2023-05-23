@@ -8,7 +8,7 @@ git clone https://github.com/purvavj/StudyBuddy.git
 
 --> Move into the directory where we have the project files : 
 ```bash
-cd StudyBud
+cd StudyBuddy
 
 ```
 

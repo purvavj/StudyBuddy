@@ -53,7 +53,6 @@ python manage.py runserver
 <p align="center">
   Room Conversation Preview
 </p>
-<img src="https://github.com/purvavj/StudyBuddy/blob/main/readmepicture/1.png">  
-
+![1](https://github.com/purvavj/StudyBuddy/assets/59122511/1bff91a5-375e-4c1c-ba73-d49739d96a2f)
 
 
